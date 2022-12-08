@@ -2,8 +2,9 @@
 <img src="cv.jpg" alt="photo" width="200"/>  
 
 ## Contacts
-E-mail: alexandertsyrkin@gmail.com  
-Telegram:  @FlexIble21
+**E-mail:** alexandertsyrkin@gmail.com  
+**Telegram:**  @FlexIble21  
+**Linkedin:** https://www.linkedin.com/in/alexander-tsyrkin-ba515238/
 ## About
 I have been a system administrator for many years with 10+ years of experience in both key Russian NGOs and corporations. At the moment I am learning new things on my own. Sociable, easy to find a common language, able to work in a team.
 ## Skills
