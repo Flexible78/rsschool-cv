@@ -1,0 +1,135 @@
+body {
+    font-size: 26px;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1400px;
+    margin:0 auto;
+    background-color: rgb(171, 171, 171);
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.photo {
+    border-radius: 10%
+}
+
+.header {
+    background-color: #717c78;
+    box-shadow: 7px 8px 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 0 5px;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.contact-link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.profile-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.abspos {
+    position: absolute;
+    top: 200px;
+    left: 790px;
+    text-align: center ;
+     }
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    color: #717e77;
+}
+
+.footer {
+    background-color: #717c78;
+    color: white;
+    font-weight: bold;
+    box-shadow: 7px 8px 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+.footer-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.school-logo {
+    background-size: contain;
+    background-repeat: no-repeat;
+};
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.profile-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    color: #817c84;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: rgb(242, 239, 239);
+    font-weight: bold;
+}
+
+.school-logo {
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 2rem;
+}
+
+.content {
+    margin: 2rem;
+    background: #fff;
+    padding: 2rem;
+    max-width: 1400px;
+}

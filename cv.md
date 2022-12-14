@@ -1,5 +1,5 @@
 # Alexander Tsyrkin
-<img src="cv.jpg" alt="photo" width="200"/>  
+<img src="./assets/img/cv.jpg" alt="photo" width="200"/>  
 
 ## Contacts
 **E-mail:** alexandertsyrkin@gmail.com  
@@ -26,5 +26,5 @@ Moscow Institute of Steel and Alloys (The National University of Science and Tec
 ## Courses
 * HTML and CSS Code Basics
 ## Languages
-English: Pre- intermediate according to the puzzle-english.com
+English: Pre-intermediate according to the puzzle-english.com
 
