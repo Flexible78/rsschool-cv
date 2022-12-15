@@ -4,6 +4,7 @@ body {
     max-width: 1400px;
     margin:0 auto;
     background-color: rgb(171, 171, 171);
+    line-height:1.6;
 }
 
 .container {
@@ -22,12 +23,12 @@ body {
 
 .main {
     background-color: #ffffff;
-    padding: 0 5px;
+    padding: 32px;
 }
 
 .nav-list {
     list-style: none;
-    padding: 0 20px;
+    padding: 10px;
     line-height: 50px;
     display: flex;
     justify-content: flex-end;
@@ -41,33 +42,11 @@ body {
     color: rgb(0, 0, 0);
 }
 
-.profile-name {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
-}
-
-.abspos {
-    position: absolute;
-    top: 200px;
-    left: 790px;
-    text-align: center ;
-     }
-.section-profile {
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-    padding: 50px 30px 35px;
-    color: #717e77;
-}
-
 .footer {
     background-color: #717c78;
     color: white;
     font-weight: bold;
-    box-shadow: 7px 8px 10px rgba(0,0,0,0.5); /* Параметры тени */
+    box-shadow: 7px 8px 10px rgba(20, 54, 49, 0.5);
 }
 
 .footer-link {
@@ -79,46 +58,28 @@ body {
 .school-logo {
     background-size: contain;
     background-repeat: no-repeat;
-};
+}
 
+.flex-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    text-decoration: none;
+}
 
 .container {
-    max-width: 1440px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
-.nav-list {
-    list-style: none;
-    padding: 0 20px;
-    line-height: 50px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-}
-
-.profile-name {
+.surname {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
     text-align: center;
-}
-
-.section-profile {
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-    padding: 50px 30px 35px;
-    color: #817c84;
-}
-
-.footer-link {
-    text-decoration: none;
-    color: rgb(242, 239, 239);
-    font-weight: bold;
+    line-height: 1%;
+    margin: 0 0 0 212px;
 }
 
 .school-logo {
@@ -128,7 +89,6 @@ body {
 }
 
 .content {
-    margin: 2rem;
     background: #fff;
     padding: 2rem;
     max-width: 1400px;
